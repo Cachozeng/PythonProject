@@ -3,9 +3,9 @@
 f:
 cd F:\PythonProject
 
-git init
-git remote add gitee https://gitee.com/Cacho/PythonProject.git
-git remote add github https://github.com/Cachozeng/PythonProject.git
+rem git init
+rem git remote add gitee https://gitee.com/Cacho/PythonProject.git
+rem git remote add github https://github.com/Cachozeng/PythonProject.git
 
 REM git pull github master
 git add .
